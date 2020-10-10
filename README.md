@@ -1,5 +1,5 @@
 # News-Classifier
-# News_category
+
 For long, categorization of news sectioning was done manually by people but now technology can do it without much effort. 
 Using NLP and Deep learning .... 
 
